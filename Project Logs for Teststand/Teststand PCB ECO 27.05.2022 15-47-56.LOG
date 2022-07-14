@@ -1,0 +1,11 @@
+Removed Member From Class: ClassName=Teststand Member=SW?
+Change Component Footprint: Designator=P? Old Footprint=MOLX-22-27-2021_V New Footprint=B4B-PH-K
+Change Component Comment : Designator=P? Old Comment=24V New Comment=B4B-PH-K
+Change Managed Component Library Link : Designator=P? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=DF46AFD1-14A4-47BA-B2D8-33B7C267FCAA New ItemGUID= Old RevisionGUID=F7E020CE-CD10-4496-9A7C-7151BE303C89 New RevisionGUID=
+Change component parameters: Designator = "P?" ("P?"); Footprint = "MOLX-22-27-2021_V"; UniqueID = "\PLOLJUTO" ("\PLOLJUTO")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-PH-K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

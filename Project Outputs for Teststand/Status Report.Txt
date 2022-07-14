@@ -1,0 +1,24 @@
+Output: Gerber X2 Files
+Type  : GerberX2
+From  : Project [Teststand.PrjPcb]
+   Generated File[Teststand_Copper_Signal_Top.gbr]
+   Generated File[Teststand_Copper_Signal_Bot.gbr]
+   Generated File[Teststand_Pads_Bot.gbr]
+   Generated File[Teststand_Pads_Top.gbr]
+   Generated File[Teststand_Soldermask_Bot.gbr]
+   Generated File[Teststand_Legend_Top.gbr]
+   Generated File[Teststand_Soldermask_Top.gbr]
+   Generated File[Teststand_Profile.gbr]
+   Generated File[Teststand_NPTH_Drill.gbr]
+   Generated File[Teststand_PTH_Drill.gbr]
+   Generated File[Teststand_Drawing_1.gbr]
+   Generated File[Teststand_Drillmap_1.gbr]
+   Generated File[Teststand.RUL]
+   Generated File[Teststand.EXTREP]
+   Generated File[Teststand.REP]
+
+
+Files Generated   : 15
+Documents Printed : 0
+
+Finished Output Generation At 14:36:42 On 30.05.2022

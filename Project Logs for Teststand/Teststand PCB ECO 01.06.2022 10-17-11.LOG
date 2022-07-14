@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=NetArduino Nano_5 Pin=Arduino Nano-5
+Added Pin To Net: NetName=NetArduino Nano_5 Pin=Blower-3
+Added Net: Name=NetArduino Nano_5
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle

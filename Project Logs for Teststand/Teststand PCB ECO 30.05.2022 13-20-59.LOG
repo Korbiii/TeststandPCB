@@ -1,0 +1,18 @@
+Change Component Designator: OldDesignator=10K NewDesignator=10K_2
+Change Component Designator: OldDesignator=10K NewDesignator=10K_3
+Change Component Designator: OldDesignator=10K NewDesignator=10K_4
+Change Net Name : Old Net Name=Net10K_2 New Net Name=Net10K_4_2
+Added Pin To Net: NetName=Net10K_2_2 Pin=10K_2-2
+Added Pin To Net: NetName=Net10K_2_2 Pin=Buttons-4
+Added Net: Name=Net10K_2_2
+Added Pin To Net: NetName=Net10K_2 Pin=10K-2
+Added Pin To Net: NetName=Net10K_2 Pin=Buttons-2
+Added Net: Name=Net10K_2
+Added Pin To Net: NetName=Net10K_3_2 Pin=10K_3-2
+Added Pin To Net: NetName=Net10K_3_2 Pin=Buttons-6
+Added Net: Name=Net10K_3_2
+Added Member To Class: ClassName=Teststand Member=Component 10K_2 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component 10K_3 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component 10K_4 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle

@@ -1,0 +1,22 @@
+Change Component Footprint: Designator=Blower Old Footprint=JST_B4B-XH-A(LF)(SN) New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Component Footprint: Designator=Pressure Old Footprint=JST_B4B-XH-A(LF)(SN) New Footprint=JST_B4B-XH-A(LF)(SN)
+Change Managed Component Library Link : Designator=Blower Old VaultGUID= New VaultGUID=2B0E14FE-0ED3-4334-AD6E-351FC9268A6C Old ItemGUID= New ItemGUID=14BD67CF-FD5F-47FB-8456-0A97588EFD23 Old RevisionGUID= New RevisionGUID=d5583f21-f098-4302-96d3-3649ff910b69
+Change Managed Component Library Link : Designator=Pressure Old VaultGUID= New VaultGUID=2B0E14FE-0ED3-4334-AD6E-351FC9268A6C Old ItemGUID= New ItemGUID=14BD67CF-FD5F-47FB-8456-0A97588EFD23 Old RevisionGUID= New RevisionGUID=d5583f21-f098-4302-96d3-3649ff910b69
+Change component parameters: Designator = "Blower" ("Blower"); Footprint = "JST_B4B-XH-A(LF)(SN)"; UniqueID = "\EHWFZTIU" ("\EHWFZTIU")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "B4B-XH-A(LF)(SN).SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Change component parameters: Designator = "Pressure" ("Pressure"); Footprint = "JST_B4B-XH-A(LF)(SN)"; UniqueID = "\GIODUFRF" ("\GIODUFRF")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Design Item ID"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'JST Sales America Inc.'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "B4B-XH-A(LF)(SN)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Source"; Value = "B4B-XH-A(LF)(SN).SchLib"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"

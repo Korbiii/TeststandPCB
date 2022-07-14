@@ -1,0 +1,4 @@
+Removed Member From Class: ClassName=Teststand Member=J?
+Added Component: Designator=*(3mm Mounting HOle-Footprint-1)
+Added Pin To Net: NetName=GND Pin=*-1
+Added Member To Class: ClassName=Teststand Member=Component * 3mm Mounting HOle

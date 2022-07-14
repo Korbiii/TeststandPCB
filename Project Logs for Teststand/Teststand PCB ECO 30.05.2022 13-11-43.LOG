@@ -1,0 +1,82 @@
+Change Component Designator: OldDesignator=* NewDesignator=M3
+Added Component: Designator=10K(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623928-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=10K(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623928-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=10K(RESAD700W45L350D185)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'TE Connectivity'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "2-1623928-8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=M3(3mm Mounting HOle-Footprint-1)
+Added Component: Designator=M3(3mm Mounting HOle-Footprint-1)
+Added Pin To Net: NetName=GND Pin=10K-1
+Added Pin To Net: NetName=GND Pin=10K-1
+Added Pin To Net: NetName=GND Pin=10K-1
+Added Pin To Net: NetName=GND Pin=10K-1
+Added Pin To Net: NetName=GND Pin=Airflow-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=M3-1
+Added Pin To Net: NetName=GND Pin=MCP4725-2
+Added Pin To Net: NetName=GND Pin=MCP4725-6
+Added Pin To Net: NetName=GND Pin=Pressure-4
+Added Pin To Net: NetName=Net10K_2 Pin=10K-2
+Added Pin To Net: NetName=Net10K_2 Pin=Arduino Nano-9
+Added Pin To Net: NetName=Net10K_2 Pin=Buttons-6
+Added Net: Name=Net10K_2
+Add Net: Net with name "Net10K_2" already exists
+Add Net: Net with name "Net10K_2" already exists
+Add Net: Net with name "Net10K_2" already exists
+Added Pin To Net: NetName=Net26V_1 Pin=26V-1
+Added Pin To Net: NetName=Net26V_1 Pin=LM2596s-4
+Added Net: Name=Net26V_1
+Added Pin To Net: NetName=Net26V_2 Pin=26V-2
+Added Pin To Net: NetName=Net26V_2 Pin=LM2596s-3
+Added Net: Name=Net26V_2
+Added Pin To Net: NetName=NetAirflow_2 Pin=Airflow-2
+Added Pin To Net: NetName=NetAirflow_2 Pin=Arduino Nano-27
+Added Pin To Net: NetName=NetAirflow_2 Pin=Buttons-1
+Added Pin To Net: NetName=NetAirflow_2 Pin=Buttons-3
+Added Pin To Net: NetName=NetAirflow_2 Pin=Buttons-5
+Added Pin To Net: NetName=NetAirflow_2 Pin=Buttons-7
+Added Pin To Net: NetName=NetAirflow_2 Pin=MCP4725-5
+Added Pin To Net: NetName=NetAirflow_2 Pin=Pressure-3
+Added Net: Name=NetAirflow_2
+Added Pin To Net: NetName=NetAirflow_3 Pin=Airflow-3
+Added Pin To Net: NetName=NetAirflow_3 Pin=Arduino Nano-23
+Added Pin To Net: NetName=NetAirflow_3 Pin=MCP4725-4
+Added Pin To Net: NetName=NetAirflow_3 Pin=Pressure-2
+Added Net: Name=NetAirflow_3
+Added Pin To Net: NetName=NetAirflow_4 Pin=Airflow-4
+Added Pin To Net: NetName=NetAirflow_4 Pin=Arduino Nano-24
+Added Pin To Net: NetName=NetAirflow_4 Pin=MCP4725-3
+Added Pin To Net: NetName=NetAirflow_4 Pin=Pressure-1
+Added Net: Name=NetAirflow_4
+Added Pin To Net: NetName=NetArduino Nano_29 Pin=Arduino Nano-29
+Added Net: Name=NetArduino Nano_29
+Added Pin To Net: NetName=NetBlower_1 Pin=Blower-1
+Added Pin To Net: NetName=NetBlower_1 Pin=LM2596s-1
+Added Net: Name=NetBlower_1
+Added Pin To Net: NetName=NetBlower_2 Pin=Blower-2
+Added Pin To Net: NetName=NetBlower_2 Pin=LM2596s-2
+Added Net: Name=NetBlower_2
+Added Pin To Net: NetName=NetBlower_4 Pin=Blower-4
+Added Pin To Net: NetName=NetBlower_4 Pin=MCP4725-1
+Added Net: Name=NetBlower_4
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle

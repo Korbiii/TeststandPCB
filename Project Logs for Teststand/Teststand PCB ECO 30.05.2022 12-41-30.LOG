@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=LM2596s DC-DC NewDesignator=LM2596s
+Added Pin To Net: NetName=GND Pin=Arduino Nano-4
+Added Net: Name=GND
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8

@@ -1,0 +1,33 @@
+Removed Pin From Net: NetName=NetP?_4 Pin=U?-8
+Removed Pin From Net: NetName=NetP?_3 Pin=U?-9
+Removed Pin From Net: NetName=NetP?_1 Pin=U?-12
+Removed Pin From Net: NetName=Net*_1 Pin=U?-21
+Change Component Footprint: Designator=U? Old Footprint=FP-ABX00027-MFG New Footprint=MODULE_A000005
+Change Component Comment : Designator=U? Old Comment=ABX00027 New Comment=A000005
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID= Old ItemGUID=9F19F534-079A-429A-9375-6EB118B4027C New ItemGUID= Old RevisionGUID=E3DEE718-8275-4FBF-A843-D2A98956D352 New RevisionGUID=
+Change component parameters: Designator = "U?" ("U?"); Footprint = "FP-ABX00027-MFG"; UniqueID = "\CCBYUDUH" ("\CCBYUDUH")
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Arduino'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "A000005"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin *-1
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-2
+Add Pin To Net: Unknown Pin: Pin *-3
+Added Pin To Net: NetName=Net*_1 Pin=P?-2
+Added Pin To Net: NetName=Net*_1 Pin=U?-4
+Added Pin To Net: NetName=NetP?_4 Pin=U?-23
+Added Pin To Net: NetName=NetP?_3 Pin=U?-24
+Added Pin To Net: NetName=NetP?_1 Pin=U?-27
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "Net*_1" already exists
+Add Net: Net with name "NetP?_1" already exists
+Add Class Member: Failed to add class member : Component * I
+Add Class Member: Failed to add class member : Component *
+Add Class Member: Failed to add class member : Component * 1623930-3
+Added Member To Class: ClassName=Teststand Member=Component P? 22-27-2041
+Added Member To Class: ClassName=Teststand Member=Component P? Fan
+Added Member To Class: ClassName=Teststand Member=Component P? 22-23-2061

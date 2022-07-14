@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=Net10K_2 Pin=10K-2
+Removed Pin From Net: NetName=Net10K_2 Pin=Arduino Nano-9
+Removed Pin From Net: NetName=Net10K_2 Pin=Buttons-6
+Added Pin To Net: NetName=Net10K_2 Pin=10K-2
+Added Pin To Net: NetName=Net10K_2 Pin=Buttons-8
+Add Net: Net with name "Net10K_2" already exists
+Add Net: Net with name "Net10K_2" already exists
+Add Net: Net with name "Net10K_2" already exists
+Added Pin To Net: NetName=NetArduino Nano_7 Pin=Arduino Nano-7
+Added Net: Name=NetArduino Nano_7
+Added Pin To Net: NetName=NetArduino Nano_8 Pin=Arduino Nano-8
+Added Net: Name=NetArduino Nano_8
+Added Pin To Net: NetName=NetArduino Nano_9 Pin=Arduino Nano-9
+Added Net: Name=NetArduino Nano_9
+Added Pin To Net: NetName=NetArduino Nano_10 Pin=Arduino Nano-10
+Added Net: Name=NetArduino Nano_10
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component 10K 2-1623928-8
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle

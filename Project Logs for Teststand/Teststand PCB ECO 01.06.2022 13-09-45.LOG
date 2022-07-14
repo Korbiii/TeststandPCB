@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetBlower_4 Pin=MCP4725-1
+Removed Pin From Net: NetName=GND Pin=MCP4725-2
+Removed Pin From Net: NetName=NetAirflow_4 Pin=MCP4725-3
+Removed Pin From Net: NetName=NetAirflow_3 Pin=MCP4725-4
+Removed Pin From Net: NetName=NetAirflow_2 Pin=MCP4725-5
+Removed Pin From Net: NetName=GND Pin=MCP4725-6
+Removed Member From Class: ClassName=Teststand Member=MCP4725
+Added Component: Designator=DAC MCP4725(New footprint 1)
+Added Pin To Net: NetName=NetBlower_4 Pin=DAC MCP4725-1
+Added Pin To Net: NetName=GND Pin=DAC MCP4725-2
+Added Pin To Net: NetName=NetAirflow_4 Pin=DAC MCP4725-3
+Added Pin To Net: NetName=NetAirflow_3 Pin=DAC MCP4725-4
+Added Pin To Net: NetName=NetAirflow_2 Pin=DAC MCP4725-5
+Added Pin To Net: NetName=GND Pin=DAC MCP4725-6
+Added Member To Class: ClassName=Teststand Member=Component DAC MCP4725 MCP4725 Adafruit
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle
+Added Member To Class: ClassName=Teststand Member=Component M3 3mm Mounting HOle
